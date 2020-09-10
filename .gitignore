@@ -1,0 +1,8 @@
+__pycache__/*
+.idea/*
+data/*
+.ipynb_checkpoints/*
+notebooks/*
+venv/*
+*.db
+*.egg-info/*

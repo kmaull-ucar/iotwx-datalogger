@@ -29,7 +29,7 @@ Options:
 
 # Example
 ```
-$ iotwx2db --broker your.broker.com --topics the/topics/to/capture
+$ iotwx2db --broker your.broker.com --topic the/topics/to/capture
 ```
 
 # Schema
